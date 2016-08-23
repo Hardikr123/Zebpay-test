@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange.API", "CurrencyExchange.API\CurrencyExchange.API.csproj", "{5570CE87-99B7-4FF8-937B-406990B36FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D60E746B-9F70-4150-BC53-E8B42FC72009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5570CE87-99B7-4FF8-937B-406990B36FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5570CE87-99B7-4FF8-937B-406990B36FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5570CE87-99B7-4FF8-937B-406990B36FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5570CE87-99B7-4FF8-937B-406990B36FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60E746B-9F70-4150-BC53-E8B42FC72009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60E746B-9F70-4150-BC53-E8B42FC72009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60E746B-9F70-4150-BC53-E8B42FC72009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60E746B-9F70-4150-BC53-E8B42FC72009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

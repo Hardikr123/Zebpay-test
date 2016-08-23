@@ -1,0 +1,12 @@
+E:\CurrencyExchange.API\DAL\bin\Debug\DAL.dll.config
+E:\CurrencyExchange.API\DAL\bin\Debug\DAL.dll
+E:\CurrencyExchange.API\DAL\bin\Debug\DAL.pdb
+E:\CurrencyExchange.API\DAL\bin\Debug\EntityFramework.dll
+E:\CurrencyExchange.API\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\CurrencyExchange.API\DAL\bin\Debug\RestSharp.dll
+E:\CurrencyExchange.API\DAL\bin\Debug\EntityFramework.xml
+E:\CurrencyExchange.API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\CurrencyExchange.API\DAL\bin\Debug\RestSharp.xml
+E:\CurrencyExchange.API\DAL\obj\Debug\DAL.dll
+E:\CurrencyExchange.API\DAL\obj\Debug\DAL.pdb
+E:\CurrencyExchange.API\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
