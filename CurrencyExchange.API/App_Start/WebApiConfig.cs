@@ -12,8 +12,8 @@ namespace CurrencyExchange.API
         {
             config.Routes.MapHttpRoute(
               name: "Version1",
-              routeTemplate: "api/v1/{action}",
-              defaults: new { controller = "CurrencyConverter"}
+              routeTemplate: "api/v1/{action}/{CurrencyCode}",
+              defaults: new { controller = "CurrencyConverter", CurrencyCode = RouteParameter.Optional }
 
 
           );
