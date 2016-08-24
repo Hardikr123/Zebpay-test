@@ -10,7 +10,7 @@ namespace DAL.Entities
     public class CurrencyContext : DbContext
     {
         public CurrencyContext()
-            : base("name=fc")
+            : base("name=ConnectionString")
         {
 
         }
